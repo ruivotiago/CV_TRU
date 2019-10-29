@@ -7,4 +7,3 @@ const findUniq = arr => {
   }
   return a;
 };
-console.log(findUniq([10, 3, 3, 3, 3])); //, 10);
